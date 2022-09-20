@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Ford Motor Company**
 
-- 🌱 I’m currently learning **Python, JS, AWS, IA, Data Science, Project Management, Modeling, SysML, Matlab**
+- 🌱 I’m currently learning **Systems Engineering,Modeling, SysML, Matlab / Simulink**
 
-- 👯 I’m looking to collaborate on **Engineering and Technology projects and companies**
+- 👯 I’m looking to collaborate on **Engineering and Technology projects on innovation companies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcelomac12/](https://github.com/marcelomac12/)
 
