@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ford Motor Company**
 
-- 🌱 I’m currently learning **Systems Engineering,Modeling, SysML, Matlab / Simulink**
+- 🌱 I’m currently learning **Systems Engineering, Modeling, SysML, Matlab / Simulink**
 
 - 👯 I’m looking to collaborate on **Engineering and Technology projects on innovation companies**
 
