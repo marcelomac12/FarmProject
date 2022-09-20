@@ -15,6 +15,12 @@ class Farm(models.Model):
     centroid = models.PointField(verbose_name=_("Centroid"),
                                  blank=True, null=True)
 
+    municipality = models.CharField(verbose_name=_("Municipality"),
+                                 blank=True, null=True)  
+
+    state = models.CharField(verbose_name=_("State"),
+                                 blank=True, null=True)    
+
     creation_date = models.DateTimeField(verbose_name=_("Creation date"),
                                          auto_now_add=True, editable=False)
 
